@@ -2,3 +2,5 @@
 *.HTML
 *.md
 *.MD
+*.txt
+*.mk
