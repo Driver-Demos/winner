@@ -4,3 +4,7 @@
 *.MD
 *.txt
 *.mk
+MakeFile
+
+*.json
+*.sh
